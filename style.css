@@ -1,0 +1,13 @@
+
+body{
+    background-image: url(img.jpg);
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 50px;
+    text-align: center;
+}
+
+h1{
+   font-size: 100px;
+}
+   
